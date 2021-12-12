@@ -243,55 +243,25 @@ Create your own Linux Mint Arch Edition.
 >>
 >>> ### 2.8 - Installing the default Linux Mint programs
 >>>> #### 2.8.1 - Installing programs from category "Accessories"
->>>> - `yay -S file-roller`
->>>> - `yay -S gnome-calculator`
->>>> - `yay -S gucharmap`
->>>> - `yay -S gnome-disk-utility`
->>>> - `yay -S xreader`
->>>> - `yay -S bulky`
->>>> - `yay -S gnome-font-viewer`
->>>> - `yay -S xviewer`
->>>> - `yay -S sticky`
->>>> - `yay -S onboard`
->>>> - `yay -S seahorse`
->>>> - `yay -S onboard`
->>>> - `yay -S redshift`
->>>> - `yay -S gnome-screenshot`
->>>> - `yay -S xed`
->>>> - `yay -S mintstick`
->>>> - `yay -S warpinator`
->>>> - `yay -S yelp`
+>>>> - `yay -S file-roller yelp warpinator mintstick xed gnome-screenshot redshift seahorse onboard sticky xviewer gnome-font-viewer bulky xreader gnome-disk-utility gucharmap gnome-calculator`
 >>>
 >>>> #### 2.8.1 - Installing programs from category "Graphics"
->>>> - `yay -S simple-scan`
->>>> - `yay -S drawing`
->>>> - `yay -S pix`
+>>>> - `yay -S simple-scan pix drawing`
 >>>
 >>>> #### 2.8.2 - Installing programs from category "Internet"
->>>> - `yay -S firefox`
->>>> - `yay -S hexchat`
->>>> - `yay -S thunderbird`
->>>> - `yay -S transmission-gtk`
->>>> - `yay -S webapp-manager`
+>>>> - `yay -S firefox webapp-manager hexchat thunderbird transmission-gtk`
 >>>
 >>>> #### 2.8.3 - Installing programs from category "Office"
->>>> - `yay -S gnome-calendar`
->>>> - `yay -S libreoffice-fresh`
+>>>> - `yay -S gnome-calendar libreoffice-fresh`
 >>>
 >>>> #### 2.8.4 - Installing programs from category "Programming"
 >>>> - `yay -S python`
 >>>
 >>>> #### 2.8.5 - Installing programs from category "Sound & Video"
->>>> - `yay -S celluloid`
->>>> - `yay -S hypnotix`
->>>> - `yay -S rhythmbox`
+>>>> - `yay -S celluloid hypnotix rhythmbox`
 >>>
 >>>> #### 2.8.6 - Installing programs from category "Administration"
->>>> - `yay -S baobab`
->>>> - `yay -S gnome-logs`
->>>> - `yay -S timeshift`
+>>>> - `yay -S baobab gnome-logs timeshift`
 >>>
 >>>> #### 2.8.7 - Installing programs from category "Preferences"
->>>> - `yay -S gufw`
->>>> - `yay -S blueberry`
->>>> - `yay -S mintlocale`
+>>>> - `yay -S gufw blueberry mintlocale`
