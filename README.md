@@ -243,7 +243,7 @@ Create your own Linux Mint Arch Edition.
 >>
 >>> ### 2.8 - Installing the default Linux Mint programs
 >>>> #### 2.8.1 - Installing programs from category "Accessories"
->>>> - `yay -S file-roller yelp warpinator mintstick xed gnome-screenshot redshift onboard seahorse onboard sticky xviewer gnome-font-viewer bulky xreader gnome-disk-utility gucharmap gnome-calculator`
+>>>> - `yay -S file-roller yelp warpinator mintstick xed gnome-screenshot redshift seahorse onboard sticky xviewer gnome-font-viewer bulky xreader gnome-disk-utility gucharmap gnome-calculator`
 >>>
 >>>> #### 2.8.1 - Installing programs from category "Graphics"
 >>>> - `yay -S simple-scan pix drawing`
