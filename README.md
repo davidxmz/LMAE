@@ -185,7 +185,7 @@ Create your own Linux Mint Arch Edition.
 >>> - Navigate to "cinnamon menu -> keyboard -> layouts"
 >>> - Set the keyboard layout of your choice by adding it at the bottem left (+) and delete the default (-)
 >>
->>> ### 2.5 - Set up sudo
+>>> ### 2.4 - Set up sudo
 >>> - Install sudo using: `pacman -S sudo`
 >>> - Open the Terminal and login as root using: `su`
 >>> - Type `EDITOR=vim visudo`, to open the "sudoers"-file.
