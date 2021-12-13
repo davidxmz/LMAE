@@ -140,10 +140,10 @@ Create your own Linux Mint Arch Edition.
 >>
 >>> ### 1.11 - Configuring the GRUB boot loader
 >>> Again, if you want to install a different bootloader, you have to do this yourself, as I will only explain GRUB.
->>>> #### 1.11.1 - Set up GRUB with UEFI
+>>>> #### 1.11.1 - Set up GRUB with BIOS
 >>>> - grub-install --target=i386-pc /dev/sda
 >>>
->>>> #### 1.11.2 - Set up GRUB with BIOS
+>>>> #### 1.11.2 - Set up GRUB with UEFI
 >>>> - grub-install --target=x86_64-efi --efi-directory=esp --bootloader-id=GRUB
 >>>
 >>>> #### 1.11.3 - Enable microcode updates
